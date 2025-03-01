@@ -1,6 +1,6 @@
 # 💫 Aprendendo dia a dia ferramentas de desenvolvimento web para migração de carreira💫
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/http://www.facebook.com/huntedempire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erick-luciano-a6767020b/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://www.facebook.com/huntedempire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erick-luciano-a6767020b/) 
 
 # 💻 Tecnolgias que possuo e utilizo em meu dia a dia 💻
 
